@@ -10,7 +10,7 @@
 
 /* for hide scroll bar */
 ::-webkit-scrollbar {
-    display: none;
+    display: ;
 }
 
 body{
